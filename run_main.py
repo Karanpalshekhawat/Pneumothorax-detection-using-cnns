@@ -13,7 +13,6 @@ from sklearn import metrics
 from src.create_folds import create_folds_using_kfold
 from src.model_dispatcher import models
 
-
 def run_output(fold, df, model):
     """
     Structure, train and save the model
