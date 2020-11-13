@@ -3,6 +3,5 @@ This script is used to initialise the important
 static variables
 """
 
-TRAINING_FILE = r'//Users/karanpalsinghshekhawat/Desktop/archive/mnist_train.csv'
-TEST_FILE = r'/Users/karanpalsinghshekhawat/Desktop/archive/mnist_test.csv'
+TRAINING_FILE = r'/Users/karanpalsinghshekhawat/Desktop/ML-Abhishek_Thakur/pneumothorax_image_data/train-rle.csv'
 OUTPUT_FILE = './models/'
